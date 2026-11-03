@@ -1,0 +1,13 @@
+{
+  "title": "Sample Presentation",
+  "slides": [
+    { "title": "Sample Presentation: Project Update", "cols": ["A short demo deck for trying the player. It is made of plain text slides, so nothing here comes from a real file.", "Open your own PDF or images to present them with the same tools."] },
+    { "title": "Goals for this quarter", "cols": ["Finish the first prototype and share it with the team.", "Collect feedback from five users and list the main problems."] },
+    { "title": "What we built", "cols": ["A viewer that opens PDF files and image sets in the browser.", "Tools for pointing: spotlight, magnify and a digital laser."] },
+    { "title": "Results so far", "cols": ["Setup time dropped from ten minutes to under one minute.", "Most users found the right-click menu without help."] },
+    { "title": "Problems we found", "cols": ["Large PDF files take a few seconds to open.", "Some users wanted a way to see all slides at once."] },
+    { "title": "Next steps", "cols": ["Add drawing tools and speaker notes.", "Run a second round of tests with new users."] },
+    { "title": "Timeline", "cols": ["Week 1 to 2: build the missing features.", "Week 3 to 4: test, fix problems and prepare the release."] },
+    { "title": "Questions", "cols": ["Press G to go to a slide, or V to see all slides.", "Press K to read every comment in one list."] }
+  ]
+}
